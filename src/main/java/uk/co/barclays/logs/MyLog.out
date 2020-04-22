@@ -1,0 +1,28 @@
+2020-04-19 16:04:796 INFO  BrowserSelector :23 - Launching chrome browser
+2020-04-19 16:04:181 INFO  HomePage :42 - Clicking on contact button [[ChromeDriver: chrome on WINDOWS (45baab196d9ee8a817ef9e544b4dd9c7)] -> xpath: //span[contains(text(),'Contact us')]]
+2020-04-19 16:04:350 INFO  ContactUsPage :22 - Getting contact us text [[ChromeDriver: chrome on WINDOWS (45baab196d9ee8a817ef9e544b4dd9c7)] -> xpath: //h1[contains(text(),'Contact us')]]
+2020-04-19 16:04:374 INFO  BrowserSelector :23 - Launching chrome browser
+2020-04-19 16:04:515 INFO  HomePage :42 - Clicking on contact button [[ChromeDriver: chrome on WINDOWS (7b12a14ac5b1647a8c615b2355fdff7d)] -> xpath: //span[contains(text(),'Contact us')]]
+2020-04-19 16:04:810 INFO  ContactUsPage :22 - Getting contact us text [[ChromeDriver: chrome on WINDOWS (7b12a14ac5b1647a8c615b2355fdff7d)] -> xpath: //h1[contains(text(),'Contact us')]]
+2020-04-19 16:04:419 INFO  BrowserSelector :23 - Launching chrome browser
+2020-04-19 17:04:611 INFO  BrowserSelector :23 - Launching chrome browser
+2020-04-19 17:04:168 INFO  HomePage :42 - Clicking on contact button [[ChromeDriver: chrome on WINDOWS (b9a1772b9d102f51db9aea3c4c22c2fd)] -> xpath: //span[contains(text(),'Contact us')]]
+2020-04-19 17:04:151 INFO  ContactUsPage :23 - Getting contact us text [[ChromeDriver: chrome on WINDOWS (b9a1772b9d102f51db9aea3c4c22c2fd)] -> xpath: //h1[contains(text(),'Contact us')]]
+2020-04-19 17:04:109 INFO  BrowserSelector :23 - Launching chrome browser
+2020-04-19 17:04:458 INFO  HomePage :48 - Clicking on find bramch button [[ChromeDriver: chrome on WINDOWS (4f4909bb84003cd28533db1a8dab1c09)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-19 17:04:896 INFO  FindBranchPage :21 - Getting branch finder text [[ChromeDriver: chrome on WINDOWS (4f4909bb84003cd28533db1a8dab1c09)] -> id: page-title]
+2020-04-19 17:04:691 INFO  BrowserSelector :23 - Launching chrome browser
+2020-04-19 17:04:378 INFO  HomePage :30 - Clicking on login button [[ChromeDriver: chrome on WINDOWS (736e6d20d7dc128d2423def3ee641e24)] -> link text: Log In]
+2020-04-19 17:04:385 INFO  LoginPage :21 - Getting Login text [[ChromeDriver: chrome on WINDOWS (736e6d20d7dc128d2423def3ee641e24)] -> id: label-mainheading]
+2020-04-19 17:04:172 INFO  BrowserSelector :23 - Launching chrome browser
+2020-04-19 17:04:85 INFO  HomePage :36 - Clicking on Register button [[ChromeDriver: chrome on WINDOWS (45b9f701ee3479f662a55b4c8068533b)] -> link text: Register]
+2020-04-19 17:04:464 INFO  RegisterPage :21 - Clicking register text [[ChromeDriver: chrome on WINDOWS (45b9f701ee3479f662a55b4c8068533b)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-19 17:04:371 INFO  BrowserSelector :23 - Launching chrome browser
+2020-04-19 17:04:221 INFO  HomePage :36 - Clicking on Register button [[ChromeDriver: chrome on WINDOWS (c54adf6199bc18252001ae5cb5366ae7)] -> link text: Register]
+2020-04-19 17:04:19 INFO  RegisterPage :21 - Clicking register text [[ChromeDriver: chrome on WINDOWS (c54adf6199bc18252001ae5cb5366ae7)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-22 17:04:626 INFO  BrowserSelector :23 - Launching chrome browser
+2020-04-22 17:04:524 INFO  HomePage :36 - Clicking on Register button [[ChromeDriver: chrome on WINDOWS (e231d823c8c7bebaf634ab13766063a5)] -> link text: Register]
+2020-04-22 17:04:174 INFO  RegisterPage :21 - Clicking register text [[ChromeDriver: chrome on WINDOWS (e231d823c8c7bebaf634ab13766063a5)] -> xpath: //h2[@class='h2 jumbo-title']]
+2020-04-22 17:04:885 INFO  BrowserSelector :23 - Launching chrome browser
+2020-04-22 17:04:63 INFO  HomePage :36 - Clicking on Register button [[ChromeDriver: chrome on WINDOWS (4fcac74392b80bf23d32f0ccde58794a)] -> link text: Register]
+2020-04-22 17:04:815 INFO  RegisterPage :21 - Clicking register text [[ChromeDriver: chrome on WINDOWS (4fcac74392b80bf23d32f0ccde58794a)] -> xpath: //h2[@class='h2 jumbo-title']]
